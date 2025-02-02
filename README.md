@@ -1,9 +1,9 @@
-Zomato Data Analysis using python 
+# Zomato Data Analysis using python 
 
 Libraries Used
 The project utilizes several Python libraries to facilitate data analysis, visualization, and manipulation:
 
-1. Pandas
+## 1. Pandas
    
 Purpose: Pandas is a powerful library for data manipulation and analysis. It provides easy-to-use data structures like Series (one-dimensional) and DataFrame (two-dimensional) to work with structured data.
 Common Use Cases:
